@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e7e68b0-f4e5-47c9-8772-edc617907e0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eQaKcckwHMOOk0e9YnIKNutAm6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../General/SRGAN" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Doom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\wrath\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Doom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Doom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e7e68b0-f4e5-47c9-8772-edc617907e0b" name="Default Changelist" comment="" />
+      <created>1594256207583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594256207583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="257" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594307989819">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="552" y="257" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1204@0.0.2194.1204" timestamp="1594307989819" />
+    <state x="832" y="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594361180511">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="832" y="392" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2194.1204@0.0.2194.1204" timestamp="1594361180511" />
+    <state x="878" y="357" key="FileChooserDialogImpl" timestamp="1594321864823">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="878" y="357" key="FileChooserDialogImpl/0.0.2194.1204@0.0.2194.1204" timestamp="1594321864823" />
+    <state width="2173" height="358" key="GridCell.Tab.0.bottom" timestamp="1594397617228">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2173" height="358" key="GridCell.Tab.0.bottom/0.0.2194.1204/-1920.0.1280.689@0.0.2194.1204" timestamp="1594397617228" />
+    <state width="2173" height="358" key="GridCell.Tab.0.bottom/0.0.2194.1204@0.0.2194.1204" timestamp="1594395376633" />
+    <state width="2173" height="358" key="GridCell.Tab.0.center" timestamp="1594397617228">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2173" height="358" key="GridCell.Tab.0.center/0.0.2194.1204/-1920.0.1280.689@0.0.2194.1204" timestamp="1594397617228" />
+    <state width="2173" height="358" key="GridCell.Tab.0.center/0.0.2194.1204@0.0.2194.1204" timestamp="1594395376633" />
+    <state width="2173" height="358" key="GridCell.Tab.0.left" timestamp="1594397617228">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2173" height="358" key="GridCell.Tab.0.left/0.0.2194.1204/-1920.0.1280.689@0.0.2194.1204" timestamp="1594397617228" />
+    <state width="2173" height="358" key="GridCell.Tab.0.left/0.0.2194.1204@0.0.2194.1204" timestamp="1594395376633" />
+    <state width="2173" height="358" key="GridCell.Tab.0.right" timestamp="1594397617228">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2173" height="358" key="GridCell.Tab.0.right/0.0.2194.1204/-1920.0.1280.689@0.0.2194.1204" timestamp="1594397617228" />
+    <state width="2173" height="358" key="GridCell.Tab.0.right/0.0.2194.1204@0.0.2194.1204" timestamp="1594395376633" />
+    <state width="2173" height="391" key="GridCell.Tab.1.bottom" timestamp="1594356687269">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2173" height="391" key="GridCell.Tab.1.bottom/0.0.2194.1204@0.0.2194.1204" timestamp="1594356687269" />
+    <state width="2173" height="391" key="GridCell.Tab.1.center" timestamp="1594356687269">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2173" height="391" key="GridCell.Tab.1.center/0.0.2194.1204@0.0.2194.1204" timestamp="1594356687269" />
+    <state width="2173" height="391" key="GridCell.Tab.1.left" timestamp="1594356687269">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2173" height="391" key="GridCell.Tab.1.left/0.0.2194.1204@0.0.2194.1204" timestamp="1594356687269" />
+    <state width="2173" height="391" key="GridCell.Tab.1.right" timestamp="1594356687269">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state width="2173" height="391" key="GridCell.Tab.1.right/0.0.2194.1204@0.0.2194.1204" timestamp="1594356687269" />
+    <state x="760" y="266" width="672" height="678" key="search.everywhere.popup" timestamp="1594392936234">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="760" y="266" width="672" height="678" key="search.everywhere.popup/0.0.2194.1204@0.0.2194.1204" timestamp="1594392936234" />
+  </component>
+</project>
